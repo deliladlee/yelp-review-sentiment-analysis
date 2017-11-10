@@ -1,10 +1,3 @@
-/*
- * Group Name: CompLex
- * Delila Dueck
- * dad140430
- * CS 6320.002 Project
- */
-
 import java.io.File;
 import java.util.ArrayList;
 import java.util.HashSet;
