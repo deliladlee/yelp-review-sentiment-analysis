@@ -1,0 +1,15 @@
+love
+like
+good
+great
+delicious
+yummy
+amazing
+*
+bad
+terrible
+worst
+horrible
+rude
+hate
+bland
