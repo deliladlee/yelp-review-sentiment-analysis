@@ -1,5 +1,5 @@
 # yelp-review-sentiment-analysis
-Performs basic sentiment analysis on Yelp reviews
+Performs sentiment analysis on Yelp reviews using basic NLP concepts
 
 Files included:
 - CompLex.java is the source code file
