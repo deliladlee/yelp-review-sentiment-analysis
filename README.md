@@ -1,6 +1,8 @@
 # yelp-review-sentiment-analysis
 Performs sentiment analysis on Yelp reviews using basic NLP concepts
 
+Class project
+
 Files included:
 - CompLex.java is the source code file
 - jaws-bin.jar is needed to connect to the WordNet database (you will be prompted to input the path to your downloaded instance of WordNet)
